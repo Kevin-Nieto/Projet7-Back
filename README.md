@@ -1,4 +1,6 @@
-# Telecharger le repository Projet 7
+# Telecharger le repository Projet7-Back et Projet7-Front
+
+Une fois les deux repository téléchargé, placez le dossier "client" à l'intertieur du dossier "Projet7-Back"
 
 ## Créez un fichier .env dans le dossier "config"
 
@@ -6,9 +8,9 @@ Dans ce fichier, complété les informations suivantes :
 
 PORT=XXXX (Le port sur lequel notre serveur écoutera)
 
-UPLOAD_URL=x\\xx\\xx\\xx\\xx\\Projet_7\\client\\public\\uploads\\profil\\ (Votre chemin d'acces jusqu'au dossier "profil")
+UPLOAD_URL=x\\xx\\xx\\xx\\xx\\Projet7-Back\\client\\public\\uploads\\profil\\ (Votre chemin d'acces jusqu'au dossier "profil")
 
-UPLOAD_POST_URL=x\\xx\\xx\\xx\\xx\\Projet_7\\client\\public\\uploads\\posts\\ (Votre chemin d'acces jusqu'au dossier "posts")
+UPLOAD_POST_URL=x\\xx\\xx\\xx\\xx\\Projet7-Back\\client\\public\\uploads\\posts\\ (Votre chemin d'acces jusqu'au dossier "posts")
 
 CLIENT_URL=http://localhost:3000
 
