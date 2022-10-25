@@ -22,7 +22,7 @@ TOKEN_SECRET= xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx (gén
 
 Dans ce fichier complété l'information suivante :
 
-REACT_APP_API_URL=http://localhost:xxxx/ (Rentrez le port de votre server)
+REACT_APP_API_URL=http://localhost:xxxx/ (Rentrez le port de votre server, celui que vous avez defini dans l'autre dossier .env "PORT=XXXX")
 
 ## Ensuite se rendre dans le dossier Projet7-Back-main avec la console / le terminal
 
